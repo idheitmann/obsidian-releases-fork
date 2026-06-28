@@ -36146,5 +36146,12 @@
     "author": "Me1oman",
     "description": "Minimalistic audio player in the sidebar: playlists, musics, tracks, sounds, shuffle, repeat, and volume. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "razzdol/obsidian-sounders"
+  },
+  {
+    "id": "yaml-editor",
+    "name": "YAML Editor",
+    "author": "Ivan Heitmann",
+    "description": "A structured YAML editor for Obsidian with schema-aware completions, smart indentation, folding, diagnostics, inline value quoting, and a dedicated editing surface for standalone .yaml / .yml files — all without reformatting your text.",
+    "repo": "idheitmann/obsidian-yaml-editor"
   }
 ]
